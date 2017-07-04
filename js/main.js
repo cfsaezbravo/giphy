@@ -1,4 +1,4 @@
-(document).ready(function(){
+$(document).ready(function(){
 	var dibujarGifs = function(data){
 		var gif = "";
 		var url = "";
